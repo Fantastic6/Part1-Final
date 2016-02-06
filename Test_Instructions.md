@@ -14,7 +14,7 @@ The Single Step Switch will run the instruction.
 
 To run:
 
-Macs - Terminal Command: 
+Use this terminal command: 
 
 ```bash
 java -jar CPUInterface.jar
