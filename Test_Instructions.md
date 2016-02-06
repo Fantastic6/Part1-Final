@@ -14,7 +14,11 @@ The Single Step Switch will run the instruction.
 
 To run:
 
-Macs - Terminal Command: java -jar yourjarfile.jar
+Macs - Terminal Command: 
+
+```bash
+java -jar CPUInterface.jar
+```
 
 # Test Instructions 
 
