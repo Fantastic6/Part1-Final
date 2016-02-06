@@ -19,7 +19,7 @@
 We will have four classes: 
 
 1. CPU.java
-2. Interface.java
+2. Controller.java
 3. Memory.java
 4. Main.java
 
